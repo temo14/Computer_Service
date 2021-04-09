@@ -1,0 +1,15 @@
+
+
+.card {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    margin: auto;
+  }
+  
+  .header {
+    padding: 100px;
+    text-align: center;
+    background: #A37C27;
+    color: white;
+  }
